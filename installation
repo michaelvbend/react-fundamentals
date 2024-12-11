@@ -1,0 +1,4 @@
+1. Installing React
+   -- React recommends to use React in combination with on of the react-powered frameworks such as Next.js, Remix, Expo (native).
+
+   `npx create-next-app@latest`
