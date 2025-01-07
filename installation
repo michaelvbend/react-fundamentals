@@ -2,3 +2,13 @@
    -- React recommends to use React in combination with on of the react-powered frameworks such as Next.js, Remix, Expo (native).
 
    `npm create vite@latest my-react-app -- --template react`
+
+
+1. Show basic react app
+2. Show jsx behind the scenes
+3. Show how to create functional component with two rules
+4. Show how to update variables and why use useState for it
+5. Show useEffect
+6. show re-rendering with the console log of this will re-render
+7. show how to prevent by putting it in its own component
+8. show a new component Rule, and how to pass props and how to use JS expressions in the JSX
